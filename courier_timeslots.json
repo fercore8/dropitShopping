@@ -1,0 +1,44 @@
+[
+  {
+    "timeslot_id": "12345",
+    "start_time": "2022-12-26",
+    "end_time": "2022-12-26",
+    "supported_addresses": [
+      {
+        "street": "Main Street",
+        "line1": "123",
+        "line2": "",
+        "country": "USA",
+        "postcode": "12345"
+      },
+      {
+        "street": "Second Street",
+        "line1": "456",
+        "line2": "",
+        "country": "USA",
+        "postcode": "12345"
+      }
+    ]
+  },
+  {
+    "timeslot_id": "67890",
+    "start_time": "2021-01-01",
+    "end_time": "2021-01-01",
+    "supported_addresses": [
+      {
+        "street": "Main Street",
+        "line1": "123",
+        "line2": "",
+        "country": "USA",
+        "postcode": "12345"
+      },
+      {
+        "street": "Second Street",
+        "line1": "456",
+        "line2": "",
+        "country": "USA",
+        "postcode": "12345"
+      }
+    ]
+  }
+]

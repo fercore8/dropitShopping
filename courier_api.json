@@ -1,0 +1,17 @@
+[
+    {
+        "start_time": "2022-01-01T09:00:00",
+        "end_time": "2022-01-01T10:00:00",
+        "supported_addresses": [
+            "123 Main St",
+            "456 Market St"
+        ]
+    },
+    {
+        "start_time": "2022-01-01T10:00:00",
+        "end_time": "2022-01-01T11:00:00",
+        "supported_addresses": [
+            "789 Broad St"
+        ]
+    }
+]
